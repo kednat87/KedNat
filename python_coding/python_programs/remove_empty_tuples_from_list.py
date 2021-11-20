@@ -1,5 +1,6 @@
 # Problem statement
 # https://www.geeksforgeeks.org/python-remove-empty-tuples-list/
+# this problem statement can also be said as remove a particular element from the list
 
 tuples = [(), ('ram','15','8'), (), ('laxman', 'sita'),('krishna', 'akbar', '45'), ('',''),()]
 
